@@ -1,2 +1,4 @@
-# hello-world
+# Python class 
 Just for study
+
+
